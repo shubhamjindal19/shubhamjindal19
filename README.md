@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Core Member at Cyber Warriors Club VITB
-
+Chief Operating Officer at Cypherash Enterprises Pvt Ltd
 
 - 🔭 I’m currently working on startup idea
 - #### I have basic knowledge of Web Dev(HTML CSS Javascript)
