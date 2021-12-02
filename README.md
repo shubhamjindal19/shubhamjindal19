@@ -4,8 +4,9 @@ Core Member at Cyber Warriors Club VITB
 
 
 - 🔭 I’m currently working on startup idea
-- #### I have basic knowledge of Database Management
-- 🌱 I’m currently learning cpp python
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: Instagram: https://instagram.com/its_shubham_jindal__
-
+- #### I have basic knowledge of Web Dev(HTML CSS Javascript)
+- 🌱 I’m currently Flutter
+- 📫 How to reach me: 
+- Email: shubhamjindal@cypherash.com
+- Linkedin: https://www.linkedin.com/in/shubham-jindal-4761b81b5/
+- Instagram: https://instagram.com/its_shubham_jindal__
