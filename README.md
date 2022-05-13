@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Chief Financial at Cypherash Enterprises Pvt Ltd
+Chief Financial Officer & Managing Director at Cypherash Enterprises Pvt Ltd
 
 - 🔭 I’m currently working on startup idea
 - #### I have basic knowledge of Web Dev(HTML CSS Javascript)
