@@ -9,4 +9,4 @@ Chief Financial Officer & Managing Director at Cypherash Enterprises Pvt Ltd
 - 📫 How to reach me: 
 - Email: shubhamjindal@cypherash.com
 - Linkedin: https://www.linkedin.com/in/shubham-jindal-4761b81b5/
-- Instagram: https://instagram.com/its_shubham_jindal__
+- Instagram: https://instagram.com/0xshubham
